@@ -6,6 +6,7 @@ Summary
 
 ## Features ##
 
+* Lowlevel serialport access via tty streams (no dependencies!)
 
 ## Install ##
 
